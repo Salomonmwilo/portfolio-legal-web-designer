@@ -66,13 +66,20 @@ Within 3–5 years, this portfolio evolves into:
 ## Repository Structure
 
 portfolio-legal-web-designer/
-├── README.md                   → Project overview
-├── .gitignore                 → WordPress exclusions
-├── changelog.md                → Version tracking
-├── docs/                      → Legal & UX documentation
-├── theme-child/               → WordPress child theme
-├── audits/                    → Compliance reports
-└── wireframes/                → UX mockups
+
+├── README.md   → Project overview
+
+├── .gitignore  → WordPress exclusions
+
+├── changelog.md  → Version tracking
+
+├── docs/      → Legal & UX documentation
+
+├── theme-child/  → WordPress child theme
+
+├── audits/     → Compliance reports
+
+└── wireframes/   → UX mockups
 
 ---
 
