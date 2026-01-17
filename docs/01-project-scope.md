@@ -1,4 +1,4 @@
-# Project Scope — Legal Web Designer Portfolio
+# Project Scope: Legal Web Designer Portfolio
 
 ## 1. Purpose
 
@@ -85,7 +85,22 @@ Within 3–5 years, this portfolio evolves into:
 
 ---
 
-## 10. Repository Integration
+## 10. Target Audience
+This portfolio is designed for:
+- SMEs and startups seeking legally compliant websites
+- Freelancers and independent professionals who need GDPR‑ready WordPress sites
+- Law firms and digital platforms requiring accessible and secure interfaces
+
+---
+
+## 11. Legal Value
+The portfolio demonstrates how legal expertise can be translated into design decisions that:
+- Reduce compliance risks (GDPR, accessibility, IP rights)
+- Build user trust through transparent and fair UX
+- Provide businesses with a competitive edge by integrating law into design from the start
+
+
+## 12. Repository Integration
 
 This scope document is part of the `docs/` folder in the GitHub repository.  
 It defines the strategic foundation of the project and guides the development of the portfolio site.
