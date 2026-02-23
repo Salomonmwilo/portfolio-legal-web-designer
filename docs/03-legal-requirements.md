@@ -90,3 +90,5 @@ This portfolio is a professional demonstration website:
 - Configure RGPD-compliant plugins (cookies, forms).
 - Apply legal design principles to legal texts.
 - Implement accessibility improvements at the UI level.
+
+
